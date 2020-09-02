@@ -1,1 +1,1 @@
-Automóvel, derivado de veículo
+#Inheritance
